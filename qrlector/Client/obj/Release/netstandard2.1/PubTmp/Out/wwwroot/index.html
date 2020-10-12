@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Html-Qrcode Demo</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>qrlector</title>
+    <base href="/" />
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/app.css" rel="stylesheet" />
+    <link href="manifest.json" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <script src="https://raw.githubusercontent.com/mebjas/html5-qrcode/master/minified/html5-qrcode.min.js"></script>
+    <script src="html5-qrcode.min.js"></script>
+</head>
+
+<body>
+    <!--<app>Loading...</app>
+
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>-->
+    <div id="qr-reader" style="width:500px"></div>
+    <div id="qr-reader-results"></div>
+
+</body>
+
+</html>
+<script>
+
+    function docReady(fn) {
+        // see if DOM is already available
+        if (document.readyState === "complete"
+            || document.readyState === "interactive") {
+            // call on next available tick
+            setTimeout(fn, 1);
+        } else {
+            document.addEventListener("DOMContentLoaded", fn);
+        }
+    }
+
+    docReady(function () {
+        var resultContainer = document.getElementById('qr-reader-results');
+        var lastResult, countResults = 0;
+        function onScanSuccess(qrCodeMessage) {
+            if (qrCodeMessage !== lastResult) {
+                ++countResults;
+                lastResult = qrCodeMessage;
+                resultContainer.innerHTML
+                    += `<div>[${countResults}] - ${qrCodeMessage}</div>`;
+            }
+        }
+
+        var html5QrcodeScanner = new Html5QrcodeScanner(
+            "qr-reader", { fps: 10, qrbox: 250 });
+        html5QrcodeScanner.render(onScanSuccess);
+    });
+
+
+</script>

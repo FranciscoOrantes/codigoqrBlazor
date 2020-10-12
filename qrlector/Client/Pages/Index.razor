@@ -1,0 +1,37 @@
+﻿@page "/"
+@inject IJSRuntime jsRuntime
+
+
+<title>Html-Qrcode Demo</title>
+<div id="qr-reader" style="width:500px"></div>
+<span> Select Camera1 ()</span>
+<h1>Códigos QR Recibidos</h1>
+<ul>
+    @foreach (string text in resultadosQR)
+    {
+        <li>@text</li>
+    }
+</ul>
+
+
+@code{
+    private string[] resultadoQR;
+    List<string> resultadosQR = new List<string>();
+    protected override void OnAfterRender(bool firstRender)
+    {
+
+        if (firstRender)
+        {
+            var variableEjemplo = "holA"; 
+            var dotNetReference = DotNetObjectReference.Create(this);
+            jsRuntime.InvokeVoidAsync("BlazorUniversity.prueba", dotNetReference);
+        }
+    }
+    [JSInvokable("AddText")]
+    public void AddTextToTextHistory(string text)
+    {
+        resultadosQR.Add(text.ToString());
+        StateHasChanged();
+        System.Diagnostics.Debug.WriteLine("DotNet: Received " + text);
+    }
+}

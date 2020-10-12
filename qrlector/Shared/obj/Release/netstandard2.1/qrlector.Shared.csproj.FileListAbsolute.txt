@@ -1,0 +1,9 @@
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\bin\Release\netstandard2.1\qrlector.Shared.deps.json
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\bin\Release\netstandard2.1\qrlector.Shared.dll
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\bin\Release\netstandard2.1\qrlector.Shared.pdb
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\obj\Release\netstandard2.1\qrlector.Shared.csprojAssemblyReference.cache
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\obj\Release\netstandard2.1\qrlector.Shared.AssemblyInfoInputs.cache
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\obj\Release\netstandard2.1\qrlector.Shared.AssemblyInfo.cs
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\obj\Release\netstandard2.1\qrlector.Shared.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\obj\Release\netstandard2.1\qrlector.Shared.dll
+C:\Users\enriq\source\repos\qrlector\qrlector\Shared\obj\Release\netstandard2.1\qrlector.Shared.pdb
