@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Francisco\Documents\qrcode version nterior\codigoqrBlazor\qrlector\Client\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\Francisco\Documents\qrcode version nterior\codigoqrBlazor\qrlector\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\bin\Debug\netstandard2.1\wwwroot\" />
 </StaticWebAssets>

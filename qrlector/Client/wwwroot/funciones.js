@@ -309,12 +309,20 @@ BlazorUniversity.prueba = function (dotNetObject) {
     }
 
     docReady(function () {
+        var lastResult;
         function onScanSuccess(qrCodeMessage) {
-            console.log(qrCodeMessage + "Hola");
+
+            if (qrCodeMessage != lastResult) {
+                console.log(lastResult);
+                dotNetObject.invokeMethodAsync('resultado', qrCodeMessage.toString());
+                lastResult = qrCodeMessage;
+
+                
+            }
 
 
 
-            dotNetObject.invokeMethodAsync('AddText', qrCodeMessage.toString());
+            
 
 
             return qrCodeMessage;

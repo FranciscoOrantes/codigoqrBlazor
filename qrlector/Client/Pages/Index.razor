@@ -4,14 +4,31 @@
 
 <title>Html-Qrcode Demo</title>
 <div id="qr-reader" style="width:500px"></div>
+<br />
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>#</th>
+            <th>Mensaje de codigos QR</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (string text in resultadosQR)
+        {
 
-<h3>Códigos QR Recibidos</h3>
-<ul>
+            <tr>
+                <td>-</td>
+                <td>@text</td>
+            </tr>
+        }
+    </tbody>
+</table>
+@*<ul>
     @foreach (string text in resultadosQR)
     {
         <li>@text</li>
     }
-</ul>
+</ul>*@
 
 
 @code{
@@ -22,12 +39,12 @@
 
         if (firstRender)
         {
-             
+
             var dotNetReference = DotNetObjectReference.Create(this);
             jsRuntime.InvokeVoidAsync("BlazorUniversity.prueba", dotNetReference);
         }
     }
-    [JSInvokable("AddText")]
+    [JSInvokable("resultado")]
     public void AddTextToTextHistory(string text)
     {
         resultadosQR.Add(text.ToString());

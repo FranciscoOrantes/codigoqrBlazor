@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-BHNhq10T\/9aejlrFEhS\/NYeYS3Djwv\/pqg2xUjQCx\/s=",
+      "hash": "sha256-86dpXs32ozRBPw96cOr01khBB4S4F7\/TPCX\/\/OmylVg=",
       "url": "css\/app.css"
     },
     {
@@ -57,7 +57,7 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-TclJsESOrgsKEgAdWHjeMTsOFdqnCnJKu4iDC\/CDIxw=",
+      "hash": "sha256-V4ipfAyJeSNXnRrZmsfP0Ba0etsya0cmCTlVz44kpwI=",
       "url": "funciones.js"
     },
     {
@@ -81,7 +81,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-MQ95+hdxix0EyLP\/teW4U56CGSWxmHwLeHGqPV1u9TE=",
+      "hash": "sha256-YnDuHVJ\/YAiEwanqVltXMwon0FHssn9ERDjkHzj7HCs=",
       "url": "_framework\/_bin\/qrlector.Client.dll"
     },
     {
@@ -237,7 +237,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-+qw0xUcXIufeK6zjt+GS9TZp\/e0iLDHcb\/o5or\/IH+0=",
+      "hash": "sha256-A+\/4FUQnnI0UXCmULbHcJAlauZNdDVYou+2uSs1alJA=",
       "url": "_framework\/_bin\/qrlector.Shared.dll"
     },
     {
@@ -293,11 +293,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-dfNPOUHLMDsFvxV3WtUl2Hg9YO2i0nO0NwOaVp+Bzz0=",
+      "hash": "sha256-hwITVOhTRcqlYSFQzXO5\/493SOX9QZVNRPT\/jEAtbj8=",
       "url": "_framework\/_bin\/qrlector.Client.pdb"
     },
     {
-      "hash": "sha256-DKw2Uvek1allRtWXUyZke1H6woIYMERuzDCYCuoFJLQ=",
+      "hash": "sha256-vA6uvAzcPCOCpcMap1NfX3SeMYJQT\/xZq4OqGD\/hjzk=",
       "url": "_framework\/_bin\/qrlector.Shared.pdb"
     },
     {
@@ -317,9 +317,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-DOyQsg4v0npUokv8caA0FQiydFbnYeTzAXr2ftheEI0=",
+      "hash": "sha256-3oJJniP\/tps7s9jL6RLIhuxwoTyAoTM9PRkDI1qzobA=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "H8+cs4w9"
+  "version": "f6zczLZ9"
 };

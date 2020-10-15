@@ -25,3 +25,12 @@ C:\Users\Francisco\Documents\qrcode version nterior\codigoqrBlazor\qrlector\Shar
 C:\Users\Francisco\Documents\qrcode version nterior\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Francisco\Documents\qrcode version nterior\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.dll
 C:\Users\Francisco\Documents\qrcode version nterior\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.pdb
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\bin\Debug\netstandard2.1\qrlector.Shared.deps.json
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\bin\Debug\netstandard2.1\qrlector.Shared.dll
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\bin\Debug\netstandard2.1\qrlector.Shared.pdb
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.csprojAssemblyReference.cache
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.AssemblyInfoInputs.cache
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.AssemblyInfo.cs
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.dll
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Shared\obj\Debug\netstandard2.1\qrlector.Shared.pdb
