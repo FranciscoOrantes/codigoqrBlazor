@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YnDuHVJ-YAiEwanqVltXMwon0FHssn9ERDjkHzj7HCs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\cIn_Nvp7_gpseo2VNFY13MQGv4jlQITrPWQEKQHPrI0=.hash",
       "Source": "C:\\Users\\enriq\\source\\codigoqrBlazor\\qrlector\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\qrlector.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/qrlector.Client.dll.br"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hwITVOhTRcqlYSFQzXO5-493SOX9QZVNRPT-jEAtbj8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-Kga9u-gYV3x31eyxB-xoMPwPiJog7o5xAcguCMJhvA=.hash",
       "Source": "C:\\Users\\enriq\\source\\codigoqrBlazor\\qrlector\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\qrlector.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/qrlector.Client.pdb.br"
     },
@@ -296,12 +296,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3oJJniP-tps7s9jL6RLIhuxwoTyAoTM9PRkDI1qzobA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\g16uxVVxCgeUBtgiQJR74W9ncK1NURjrrn0ccnbO6nE=.hash",
       "Source": "C:\\Users\\enriq\\source\\codigoqrBlazor\\qrlector\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Ze-ySMvw3eYHzOt7L5atKfdOIny-Q8UsrsG7jCTvqcg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\36NuuWKdSHDuzRMEzAS8p8Hv0paEUBEmInn2CnbiSQY=.hash",
       "Source": "C:\\Users\\enriq\\source\\codigoqrBlazor\\qrlector\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

@@ -1521,8 +1521,8 @@ C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\qr
 C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\qrlector.Client.pdb
 C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\x9jBqOi3W6RShSqXRz-wTz8bU87bo3RauL9xDSIWSSo=.hash
-C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\YnDuHVJ-YAiEwanqVltXMwon0FHssn9ERDjkHzj7HCs=.hash
-C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\hwITVOhTRcqlYSFQzXO5-493SOX9QZVNRPT-jEAtbj8=.hash
-C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\3oJJniP-tps7s9jL6RLIhuxwoTyAoTM9PRkDI1qzobA=.hash
-C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\Ze-ySMvw3eYHzOt7L5atKfdOIny-Q8UsrsG7jCTvqcg=.hash
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\7k11J1Zp_hRalcKyL9jzDXtwtjgvIXHI_6P7GikgzhE=.hash
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\cIn_Nvp7_gpseo2VNFY13MQGv4jlQITrPWQEKQHPrI0=.hash
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\-Kga9u-gYV3x31eyxB-xoMPwPiJog7o5xAcguCMJhvA=.hash
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\g16uxVVxCgeUBtgiQJR74W9ncK1NURjrrn0ccnbO6nE=.hash
+C:\Users\enriq\source\codigoqrBlazor\qrlector\Client\obj\Debug\netstandard2.1\integrity\36NuuWKdSHDuzRMEzAS8p8Hv0paEUBEmInn2CnbiSQY=.hash
