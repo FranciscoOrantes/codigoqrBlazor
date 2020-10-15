@@ -1,5 +1,36 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
+.container {
+    width: 500px;
+    position: relative;
+    padding: 0px;
+    border: 1px solid silver;
+}
+
+.titulo {
+    text-align: left;
+    margin: 0px;
+    padding: 5px;
+    font-size: 20px;
+    border-bottom: 1px solid rgba(192, 192, 192, 0.18);
+}
+
+.gif {
+    width: 100%;
+    min-height: 100px;
+    text-align: center;
+}
+
+.botonCamara {
+    width: 100%;
+}
+
+.botonCamara2 {
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -181,3 +212,4 @@ app {
         display: block;
     }
 }
+

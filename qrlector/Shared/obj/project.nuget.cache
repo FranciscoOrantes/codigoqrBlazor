@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Eb+T1BN/ypewT/7DClfDgGU63jdhBST7kipgGveN5RbKQk7xV776E+VAv3CJj+U4EnBWNUDdBd5eKlfb9iCiw==",
+  "dgSpecHash": "O5xUOXD9Vf4A1UFuWy0/YeYw2m9f15MM3iKBtKyQJCqhS0jdB6YEtDfdEk4bGOoZCEC4fb3fPhl6bPexJvFC5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\qrlector.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\qrlector.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

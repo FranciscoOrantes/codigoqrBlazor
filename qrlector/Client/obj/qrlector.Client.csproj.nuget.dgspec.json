@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Client\\qrlector.Client.csproj": {}
+    "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Client\\qrlector.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Client\\qrlector.Client.csproj": {
+    "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Client\\qrlector.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Client\\qrlector.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Client\\qrlector.Client.csproj",
         "projectName": "qrlector.Client",
-        "projectPath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Client\\qrlector.Client.csproj",
+        "projectPath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Client\\qrlector.Client.csproj",
         "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Client\\obj\\",
+        "outputPath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\qrlector.Shared.csproj": {
-                "projectPath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\qrlector.Shared.csproj"
+              "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\qrlector.Shared.csproj": {
+                "projectPath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\qrlector.Shared.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\qrlector.Shared.csproj": {
+    "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\qrlector.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\qrlector.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\qrlector.Shared.csproj",
         "projectName": "qrlector.Shared",
-        "projectPath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\qrlector.Shared.csproj",
+        "projectPath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\qrlector.Shared.csproj",
         "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francisco\\AppData\\Roaming\\NuGet\\NuGet.Config",

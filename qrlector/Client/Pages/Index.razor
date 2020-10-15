@@ -4,8 +4,8 @@
 
 <title>Html-Qrcode Demo</title>
 <div id="qr-reader" style="width:500px"></div>
-<span> Select Camera1 ()</span>
-<h1>Códigos QR Recibidos</h1>
+
+<h3>Códigos QR Recibidos</h3>
 <ul>
     @foreach (string text in resultadosQR)
     {
@@ -22,7 +22,7 @@
 
         if (firstRender)
         {
-            var variableEjemplo = "holA"; 
+             
             var dotNetReference = DotNetObjectReference.Create(this);
             jsRuntime.InvokeVoidAsync("BlazorUniversity.prueba", dotNetReference);
         }

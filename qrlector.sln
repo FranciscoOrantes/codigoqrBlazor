@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qrlector.Server", "qrlector\Server\qrlector.Server.csproj", "{BB494921-DD74-45F9-88D7-835BEF32E10D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qrlector.Server", "qrlector\Server\qrlector.Server.csproj", "{BB494921-DD74-45F9-88D7-835BEF32E10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qrlector.Client", "qrlector\Client\qrlector.Client.csproj", "{7B4BF650-7B9E-4E03-A268-A448945F4560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qrlector.Client", "qrlector\Client\qrlector.Client.csproj", "{7B4BF650-7B9E-4E03-A268-A448945F4560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qrlector.Shared", "qrlector\Shared\qrlector.Shared.csproj", "{9D629385-7856-4A7F-AA53-B963FF69312B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "qrlector.Shared", "qrlector\Shared\qrlector.Shared.csproj", "{9D629385-7856-4A7F-AA53-B963FF69312B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

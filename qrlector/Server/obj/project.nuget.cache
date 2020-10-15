@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJCzXOOsHizBSNr9FjrMetH+7tYHb8VIt4ZmdqNzAegk3u7yZvQLrEnocvvA/ag3fxrfVLpXFFam7GwxA/hfZQ==",
+  "dgSpecHash": "ZtM1xEXzIQGlkTRFzUEs3OB4Eo5Q05iWpEGTc3FR0DDEa+xBYR4YjGJZwVlGLiQXfzSpFW+avYjrtgWrA4RVzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francisco\\Desktop\\qrlector\\qrlector\\Server\\qrlector.Server.csproj",
+  "projectFilePath": "C:\\Users\\Francisco\\Documents\\qrcode version nterior\\codigoqrBlazor\\qrlector\\Server\\qrlector.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

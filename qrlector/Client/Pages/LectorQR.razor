@@ -1,0 +1,38 @@
+﻿@page "/lectorQr"
+
+<h3>LectorQR</h3>
+<div class="container">
+    <div class="titulo">
+        <span>QR Code Scanner</span>
+
+    </div>
+
+    <div class="gif">
+        <br>
+        <img width="64" src="https://raw.githubusercontent.com/mebjas/html5-qrcode/master/assets/camera-scan.gif" style="opacity: 0.3;">
+
+    </div>
+
+    <div class="botonCamara">
+        <div class="botonCamara2">
+            <div>
+                <div style="display: block;">
+                    <div style="text-align: center;">
+                        <button>Request Camera Permissions</button>
+                    </div>
+                </div>
+                <div>
+                    <div id="qr-reader__dashboard_section_fsr" style="text-align: center; display: none;">
+                        <input id="qr-reader__filescan_input" accept="image/*" type="file" disabled="" style="width: 200px;">
+                        <span>&nbsp; Select Image</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@code {
+
+}
